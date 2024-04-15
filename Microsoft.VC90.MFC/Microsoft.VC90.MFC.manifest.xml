@@ -1,13 +1,3 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<!-- Copyright (c) Microsoft Corporation.  All rights reserved. -->
-<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
-    <noInheritable/>
-    <assemblyIdentity
-        type="win32"
-        name="Microsoft.VC90.MFC"
-        version="9.0.21022.8"
-        processorArchitecture="x86"
-        publicKeyToken="1fc8b3b9a1e18e3b"
-    />
-    <file name="mfc90.dll" /> <file name="mfcm90.dll" />
-</assembly>
+version https://git-lfs.github.com/spec/v1
+oid sha256:62eaf854710ddf6a36645ec9e3d4997b3b805ce6ec07d4e804a59d5b168ea2d7
+size 493
